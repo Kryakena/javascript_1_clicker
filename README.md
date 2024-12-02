@@ -17,7 +17,7 @@
     <canvas id="Canvas" width="480" height="320"></canvas>  
 </head>  
 <body>  
-<script src="scripts/Click_JS.js"></script>  
+<script src="/scripts/Click_JS.js"></script>  
 </body>  
 </html>
 ```
