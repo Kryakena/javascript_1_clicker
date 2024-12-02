@@ -34,7 +34,7 @@
 ```JavaScript
 var click = 0;  
   
-function increment() {  
+function increment(e) {  
     var x = e.clientX - 240;  
     var y = e.clientY - 160;  
     var dist = Math.sqrt(y * y + x * x);  
