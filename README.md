@@ -1,11 +1,10 @@
 # 🏆Игра кликер на JavaScript🏆
 
-![2024-12-02_11-06-34](https://github.com/user-attachments/assets/f45d0566-0a39-4442-b8dd-a6c4a2c100fe)
-
+![2024-12-02_11-06-34](https://github.com/user-attachments/assets/1354500c-21a9-4445-b2b2-590410d60752)
 
 1. Создать файлы и папки в указанном порядке
 
-![2024-12-01_23-11-47](https://github.com/user-attachments/assets/4a5bfb48-85cd-4711-a705-010dcf553cce)
+![2024-12-01_23-11-47](https://github.com/user-attachments/assets/d0a063c0-4a6e-4425-9b29-c18b8b34d817)
 
 2. В файле Click_HTML.html
 
@@ -22,11 +21,13 @@
 </body>  
 </html>
 ```
-![2024-12-01_23-13-48](https://github.com/user-attachments/assets/631f8e39-a874-4734-a048-55b4538d8e8d)
+
+![2024-12-02_23-19-56](https://github.com/user-attachments/assets/55a99f74-ffed-4c4b-b1cf-3af5fee575bf)
 
 3. В файле Click_CSS.css пусто
 
-![2024-12-01_23-14-30](https://github.com/user-attachments/assets/d76921f5-dba4-42ce-abea-b6675e308c4e)
+![2024-12-01_23-14-30](https://github.com/user-attachments/assets/f38c956b-4e37-41ee-a579-f379e175f77b)
+
 
 4. В файле Click_JS.js
 
@@ -57,5 +58,7 @@ function redraw() {
 }  
 redraw()
 ```
-![2024-12-01_23-15-31](https://github.com/user-attachments/assets/2b270806-c526-4ddf-9acb-b53c4dc600e9)
+
+![2024-12-02_23-18-51](https://github.com/user-attachments/assets/bc6e617c-c057-4a9d-ac4f-f5f632f45b1b)
+
 
